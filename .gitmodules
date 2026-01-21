@@ -4,3 +4,7 @@
 [submodule "instructor-dashboard"]
 	path = instructor-dashboard
 	url = https://github.com/baaba-midnight/instructor-dashboard.git
+[submodule "student-ide"]
+	path = student-ide
+	url = https://github.com/baaba-midnight/vscode.git
+	branch = capstone/1.106.3
